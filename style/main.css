@@ -1,0 +1,14 @@
+body {
+    background-color: #000; 
+}
+
+.header {
+    height: 20px;
+    background-color: darkseagreen;
+    border: 1pm black solid;
+    text-decoration: none;
+}
+
+ul {
+    color: white;
+}
