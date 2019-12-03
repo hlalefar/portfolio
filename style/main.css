@@ -1,14 +1,16 @@
-body {
-    background-color: #FFF; 
+.face {
+    border: white 1px solid;
+    border-radius: 50%;
 }
 
-.header {
-    height: 20px;
-    background-color: darkseagreen;
-    border: 1pm black solid;
-    text-decoration: none;
+.about {
+    font-family: 'Comfortaa';
 }
 
-ul {
-    color: #000;
+.iceland {
+    height: 200px;
+}
+
+.quote {
+    font-family: 'Calligraffitti', cursive;
 }
